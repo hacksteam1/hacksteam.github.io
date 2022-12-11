@@ -1,0 +1,1 @@
+<script src="<?php echo $src = get_template_directory_uri() . '/assets/assets/js/all.js'; ?>"></script>
